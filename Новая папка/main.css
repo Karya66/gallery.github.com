@@ -1,0 +1,27 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;}
+ body {
+ background-color: rgb(203, 255, 14);    
+ }
+ main{
+     width: 70%; 
+     padding: 50px; 
+     margin: auto;
+     background-color: rgb(152, 2, 221);
+    display:flex;
+flex-wrap: wrap;
+justify-content: center;}
+.photo{
+width:350px;
+height:250px;
+margin: 10px; 
+background-color: blue;}
+h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 48px;
+font-family: 'Courier New';}
+        .photo1{
+    background-image: url(img/img1.jpg);}
